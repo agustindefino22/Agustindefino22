@@ -1,4 +1,4 @@
-## Olá! Eu sou o Agustindefino22
+## Olá! Eu sou o agustindefino22
 
 - 🔭 Procurando meu primeiro estagio.
 - 🌱 Atualmente estou aprendendo React e programação em geral.
